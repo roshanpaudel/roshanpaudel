@@ -5,7 +5,8 @@
 </div>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Delius+Swash+Caps&duration=3000&pause=500&color=15F72A&width=435&lines=Hi+there!+%F0%9F%98%8A%F0%9F%91%8B;My+name+is+Roshan+Paudel+!%F0%9F%92%BB;I+am+a+coder+%3C%2F%3E+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+profile+%F0%9F%99%8F" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com/demo/?font=Honk&size=40&duration=3000&pause=600&center=true&vCenter=true&width=650&height=60&lines=Hi+there!+%F0%9F%91%8B+I+am+Roshan+Paudel+%F0%9F%98%8A;I+am+a+Web+Developer+%F0%9F%8C%90;Welcome+to+my+GitHub+profile+%F0%9F%99%8F" alt="Typing SVG" /></a>
+    
 </h1>
 
 <h3 align="center">A passionate full-stack developer from Australia</h3>
