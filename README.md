@@ -59,6 +59,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats" ><img src="https://github-readme-streak-stats.herokuapp.com?user=roshanpaudel&theme=vision-friendly-dark" alt="GitHub Streak" /> </a>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpaudel&layout=compact&theme=dark)"/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  <a href="https://git.io/streak-stats" ><img src="https://github-readme-streak-stats.herokuapp.com?user=roshanpaudel&theme=vision-friendly-dark" alt="GitHub Streak" /> 
+   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpaudel&layout=compact&theme=dark)"/>
+   </a>
