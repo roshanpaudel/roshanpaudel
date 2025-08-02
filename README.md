@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
- 🔭 I’m currently working on **E-Commerce App**
+ 🔭 I’m currently working on **Finance Tracker App**
  
  🌱 I’m currently learning **Docker, AWS, GenKit AI and more!**
 
