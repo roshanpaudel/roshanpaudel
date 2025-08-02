@@ -61,5 +61,5 @@
 <div align=center>
     <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=roshanpaudel&card_height=180" alt="GitHub Streak"/>
-        <img  width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpaudel&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpaudel&layout=compact"/>
     </a>
