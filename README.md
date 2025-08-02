@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Delius+Swash+Caps&duration=3000&pause=500&color=15F72A&width=435&lines=Hi+there!+%F0%9F%98%8A%F0%9F%91%8B;My+name+is+Roshan+Paudel+!%F0%9F%92%BB;I+am+a+coder+%3C%2F%3E+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+profile+%F0%9F%99%8F" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Delius+Swash+Caps&duration=3000&pause=500&color=15F72A&width=435&lines=Hi+there!+%F0%9F%98%8A%F0%9F%91%8B;My+name+is+Roshan+Paudel+!%F0%9F%92%BB;I+am+a+coder+%3C%2F%3E+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub+profile+%F0%9F%99%8F" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate full-stack developer from Australia</h3>
@@ -59,7 +59,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=roshanpaudel&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=roshanpaudel&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=roshanpaudel&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanpaudel&hide=HTML&langs_count=8&la"/>
